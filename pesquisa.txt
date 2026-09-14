@@ -1,0 +1,10 @@
+O grid é a estrutura invisível que funciona como o esqueleto do design. Sua importância está em organizar a informação e garantir consistência visual em projetos impressos ou digitais.
+Suas principais funções são:
+
+* Organização rápida: Alinha textos e imagens, melhorando a leitura e a navegação.
+* Hierarquia clara: Define o que é mais importante por meio do tamanho e posição dos elementos.
+* Unidade visual: Mantém o mesmo padrão visual em várias páginas ou telas de um aplicativo.
+* Agilidade na produção: Facilita a criação do layout ao eliminar a dúvida de onde posicionar cada elemento.
+* Responsividade: Permite que sites e aplicativos se adaptem facilmente a telas de celulares, tablets e computadores.
+
+O grid não engessa a criatividade, mas dá a base necessária para criar com ordem e equilíbrio.
